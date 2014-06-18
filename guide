@@ -1,0 +1,13 @@
+1. java installed
+2. ./gradlew clean
+3. ./gradlew build
+4. ./gradlew bootRun
+
+
+
+http://localhost:8080/greeting/getObject/MinhKiet/25/kietdk@gmail.com
+
+http://localhost:8080/greeting/helloview
+http://localhost:8080/greeting/helloview?name=MinhKiet
+
+http://localhost:8080/greeting/hellojson/JsonName
